@@ -109,9 +109,6 @@ h3 {
     background-color: #2589bd;
 }
 
- {
-    color: burlywood;
-}
 div:not(.container):not(.row):not(.navbar){
     min-height: 20px;
     border: 2px solid burlywood;
