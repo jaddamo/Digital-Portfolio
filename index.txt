@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Media Query to nake mobile phone compatible -->
+
+    <!-- META  -->
+        <title>Joseph S. Addamo</title>
+        <link rel="stylesheet" href="/Assets\Images/Style.css">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    </head>
+
+<body>
+
+
+
+        <!-- Heading -->
+    <section>
+        <header class="header">
+
+ <!-- NAV BAR -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">JA |</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item active">
+                                <a class="nav-link" href="/index.html">Home <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="http://josephaddamo.com">JosephAddamo.com</a>
+                            </li>
+                            
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Pages
+                                </a>
+                            </li>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="/contract.html">Contract</a>
+                                <a class="dropdown-item" href="/portfolio.html">Portfolio</a>
+                                <div class="dropdown-divider"></div>
+                            </div>
+
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Admin</a>
+                            </li>
+                        </ul>
+                        <form class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                        </form>
+                </div>                  
+            </nav>
+        </header>
+    </section>   
+
+
+        <!-- Jumbotron element -->
+        <figure>
+            <div class="hero"></div>
+        </figure>
+        <div class="jumbotron">
+
+    <!-- centered text -->
+    <h1 class="text-center"><strong>Digital Portfolio</strong></h1>
+
+
+
+
+    
+  <!-- CONTAINER -->
+  <div class="container clearfix my-container">
+        <div class="row justify-content-center align-items-start my-row">
+            <div class="col-md-2 col-sm-4 my-col align-self-start my-col">
+
+                <!-- RESPONSIVE LAYOUT  &  RESPONSIVE IMAGES -->
+                <div class="card" style="width: 18rem;">
+                    <img src="/Assets/assets-images/businesspic.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h1 class="card-title">Joseph S. Addamo</h1>
+                      <p class="card-text">Hello, my name is Joseph Addamo and I'm a student at Columbia University in the City of New York.</p>
+                      <a href="portfolio.html" target="_blank" class="btn btn-primary">Go to portfolio</a>
+                    </div>
+                  </div>
+            </div>
+            <div class="col-md-8 col-sm-10 my-col">
+                Row 1 Col 2
+
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque quam iure amet alias, magni ducimus. Cum ea veritatis sit quaerat nostrum ratione ad beatae sint ut officiis, vel porro deleniti!
+                </p>
+            </div>
+
+            <div class="col-md-8 col-sm-10 my-col">
+                Row 1 Col 2
+
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque quam iure amet alias, magni ducimus. Cum ea veritatis sit quaerat nostrum ratione ad beatae sint ut officiis, vel porro deleniti!
+                </p>
+            </div>
+
+            <div class="col-md-8 col-sm-10 my-col">
+                Row 1 Col 2
+
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque quam iure amet alias, magni ducimus. Cum ea veritatis sit quaerat nostrum ratione ad beatae sint ut officiis, vel porro deleniti!
+                </p>
+            </div>
+            </div>
+
+        <div class="row justify-content-center align-items-start my-row">
+            <div class="col-md-4 col-sm-6 my-col">
+                Row 2 Col 1
+
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam vel accusantium molestiae, quaerat sapiente quasi tenetur eligendi nihil voluptatibus amet ratione alias, iure placeat iste? Beatae earum quasi praesentium similique.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia magni veniam culpa repellat architecto rem tempora id quod, eveniet voluptatum nam nulla laudantium modi? Ratione quis labore officia harum veniam!
+                </p>
+            </div>
+            <div class="col-md-8 col-sm-10 my-col">
+                Row 2 Col 2
+
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Est unde saepe cumque a ut, illum veritatis accusantium aliquam maiores nihil molestiae distinctio, eligendi sapiente minus doloremque harum optio ratione eaque.
+                </p>
+
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia ducimus autem, ipsam recusandae suscipit vitae hic a commodi laudantium libero rerum quos quis perferendis consequuntur quaerat perspiciatis numquam sapiente quisquam.
+                </p>
+
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum perferendis, laboriosam ullam, maxime placeat ea maiores ipsam animi provident amet dignissimos beatae facilis. Inventore voluptatum debitis provident cupiditate maiores harum.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <br>
+    <div class="row">
+      <div class="col-lg-12">
+        <!-- The content in this div gets wrapped in a card -->
+        <div class="card">
+          <div class="card-body">
+            <div class="text-center">
+                <h2>Made with ❤️️ by Joseph S. Addamo</h2>
+                <p>&copy; 2020 Columbia University</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- <section>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="footer1" style="text-align: center !important;">
+                        <h2>Made with ❤️️ by Joseph S. Addamo</h2>
+                        <p>&copy; 2020 Columbia University</p>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </footer>
+</section> -->
+
+
+
+</body>
+</html>
